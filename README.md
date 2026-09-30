@@ -1,4 +1,8 @@
-# CMPM 121 Section Activity starter
+# S01 Activity
+
+This is a section project where we made a click of a button increment the counter by 1. For my project I changed the button event listener so that on a click the counter increments and the counter element gets updated as well. I finished a little early so I changed the background of the HTML to be purple.
+
+## CMPM 121 Section Activity starter
 
 This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
 
